@@ -1,6 +1,6 @@
 ## Resumo do projeto         
 
-Um Pokédex é uma enciclopédia eletrônica que contém informações sobre os Pokémon, incluindo suas habilidades, tipos, evoluções, entre outros dados. O objetivo principal do Pokédex é ajudar os treinadores a identificar e capturar novos Pokémon durante suas jornadas.
+A Pokédex é uma enciclopédia eletrônica que contém informações sobre os Pokémon, incluindo suas habilidades, tipos, evoluções, entre outros dados. O objetivo principal do Pokédex é ajudar os treinadores a identificar e capturar novos Pokémon durante suas jornadas.
 
 <p>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
