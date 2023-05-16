@@ -11,3 +11,10 @@ A Pokédex é uma enciclopédia eletrônica que contém informações sobre os P
 - ``HTML5``
 - ``CSS``
 - ``JavaScript``
+
+## Link da página final
+
+<a href="https://shre.ink/pokedex">Projeto Pokédex Isabela Queiroz</a>
+
+
+
